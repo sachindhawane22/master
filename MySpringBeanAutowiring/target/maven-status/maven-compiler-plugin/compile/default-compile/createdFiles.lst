@@ -1,0 +1,4 @@
+org/springframework/samples/MySpringBeanAutowiring/MyMojo.class
+com/sachin/spring/autowiring/model/Employee.class
+com/sachin/spring/autowiring/main/SpringMain.class
+com/sachin/spring/autowiring/service/EmployeeService.class
