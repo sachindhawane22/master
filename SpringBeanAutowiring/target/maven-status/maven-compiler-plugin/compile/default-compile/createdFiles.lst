@@ -1,0 +1,5 @@
+com/journaldev/spring/autowiring/model/Employee.class
+com/journaldev/spring/autowiring/service/EmployeeAutowiredByConstructorService.class
+com/journaldev/spring/autowiring/main/SpringMain.class
+com/journaldev/spring/autowiring/service/EmployeeAutowiredByTypeService.class
+com/journaldev/spring/autowiring/service/EmployeeService.class
